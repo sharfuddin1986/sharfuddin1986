@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/md-sharfuddin-7764a835/" rel="nofollow">
   <img src="https://img.shields.io/badge/md-sharfuddin-7764a835 ?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://abhi-devops.blogspot.com/" rel="nofollow">
+<a target="_blank" href="https://mdsharfuddin2.blogspot.com/" rel="nofollow">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a target="_blank" href="https://stackoverflow.com/users/13441308/abhiram-das" rel="nofollow">
