@@ -13,6 +13,15 @@
 
 
 I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall I have more than 14 years experinece in IT in different different  type of industries like hospitality ,Service, and Construction. I have wide range of skillset in software (AWS,Ansible, Jenkins,Git,Git-Hub,Docker & Kubernetes)
+
+
+###  Skills:
+<hr>
+<a href="https://getbootstrap.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
+    </a>
+    <a href="https://git-scm.com/" rel="nofollow">
+        <img 
 <!--
 **sharfuddin1986/sharfuddin1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
