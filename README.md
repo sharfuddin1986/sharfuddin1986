@@ -12,7 +12,7 @@
 
 
 
-I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall I have more than 14 years experinece in IT in different type of industries like hospitality ,Service, and Constructin. I have wide range of skillset in software (AWS,Ansible, Jenkins,Git,Git-Hub,Docker & Kubernetes)
+I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall I have more than 14 years experinece in IT in different different  type of industries like hospitality ,Service, and Construction. I have wide range of skillset in software (AWS,Ansible, Jenkins,Git,Git-Hub,Docker & Kubernetes)
 <!--
 **sharfuddin1986/sharfuddin1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
