@@ -25,5 +25,5 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="100" height="100" style="max-width: 100%; padding :10px">
     
 </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="100" height="100" style="max-width: 100%; padding :10px">
+<img src="https://github.com/sharfuddin1986/logo/blob/main/jenkins-original.svg" alt="Jenkins" width="100" height="100" style="max-width: 100%; padding :10px">
 
