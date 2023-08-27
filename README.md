@@ -25,8 +25,8 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
 
 
 <hr>
-<a href="https://getbootstrap.com" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100" style="max-width: 100%; padding :10px">
+</a>
+        <img src="https://raw.githubusercontent.com/devicons/icons/docker/docker-original-wordmark.svg" alt="Docker" width="100" height="100" style="max-width: 100%; padding :10px">
     
 
 
