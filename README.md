@@ -22,8 +22,7 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
     </a>
    
    <a href="https://git-scm.com/" rel="nofollow">
-        <img 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/docker/docker-original-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/docker/docker-original-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
     
   
 
