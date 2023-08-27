@@ -20,9 +20,10 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
 <a href="https://getbootstrap.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
     </a>
-    <a href="https://git-scm.com/downloads/logos" rel="nofollow">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/docker/docker-original-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
+   
+   <a href="https://git-scm.com/" rel="nofollow">
+        <img 
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/docker/docker-original-wordmark.svg" alt="bootstrap" width="100" height="100" style="max-width: 100%; padding :10px">
     
   
 
