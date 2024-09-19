@@ -24,7 +24,7 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
    <img src="https://github.com/sharfuddin1986/logo/blob/443900eba17002ac27e91243e70668dc825900d3/docker-original.svg" alt="Docker" width="100" height="100" style="max-width: 100%; padding :10px">
 </a>
  <a href="https://git-scm.com/" rel="nofollow">
-    <img src="https://github.com/sharfuddin1986/logo/blob/f6990671785566e86beddb1bad7fa3e77802f113/jenkins-original-wordmark.svg" alt="Jenkins" width="100" height="100" style="max-width: 100%; padding :10px">
+    <img src="https://github.com/sharfuddin1986/logo/blob/f6990671785566e86beddb1bad7fa3e77802f113/jenkins-original.svg" alt="Jenkins" width="100" height="100" style="max-width: 100%; padding :10px">
 <a href="https://git-scm.com/" rel="nofollow">
  <img src="https://github.com/sharfuddin1986/logo/blob/47bda0879f763d18db3ce3164e94a2087b20ece8/ansible-original-wordmark.svg" alt="Ansible" width="100" height="100" style="max-width: 100%; padding :10px">
  <a href="https://git-scm.com/" rel="nofollow">
