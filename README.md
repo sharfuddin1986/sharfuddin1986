@@ -25,7 +25,7 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
 ###  Skills:
 <hr> 
  <a href="https://git-scm.com/" rel="nofollow">
-   <img src="https://github.com/abhiramdas99/abhiramdas99/assets/62290469/57a839cc-414e-4636-9b57-e4449225dbc7" alt="Shell Script" width="100" height="100" style="max-width: 100%;">
+   <img src="https://github.com/sharfuddin1986/main/shell_scripts.png" alt="Shell Script" width="100" height="100" style="max-width: 100%;">
 </a>
  <a href="https://git-scm.com/" rel="nofollow">
    <img src="https://github.com/sharfuddin1986/logo/blob/443900eba17002ac27e91243e70668dc825900d3/docker-original.svg" alt="Docker" width="100" height="100" style="max-width: 100%; padding :10px">
