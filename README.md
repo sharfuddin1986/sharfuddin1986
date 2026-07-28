@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/md-sharfuddin-7764a835/" rel="nofollow">
+<a target="_blank" href="https://sharfuddin1986.github.io/portfolio/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+<a target="_blank" href="https://www.alinkedin.com/in/md-sharfuddin-7764a835/" rel="nofollow">
   <img src="https://img.shields.io/badge/md-sharfuddin-7764a835 ?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://mdsharfuddin2.blogspot.com/" rel="nofollow">
