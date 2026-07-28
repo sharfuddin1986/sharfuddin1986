@@ -41,3 +41,4 @@ I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall
  <a href="https://git-scm.com/" rel="nofollow">
  <img src="https://github.com/sharfuddin1986/logo/blob/47bda0879f763d18db3ce3164e94a2087b20ece8/amazonwebservices-original-wordmark.svg" alt="AWS" width="100" height="100" style="max-width: 100%; padding :10px">
 <img src="https://github.com/sharfuddin1986/logo/blob/main/ec2.png" alt="AWS" width="200" height="200" style="max-width: 200%; padding :30px">
+<img src="https://github.com/sharfuddin1986/logo/blob/main/lambda.jpeg" alt="AWS" width="200" height="200" style="max-width: 200%; padding :30px">
