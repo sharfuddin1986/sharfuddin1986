@@ -21,7 +21,6 @@
 ## 👋 About Me
 
 **AWS Cloud & DevOps Engineer** with **19+ years of overall IT experience**, specializing in **AWS Cloud, DevOps, Linux, CI/CD, Docker, Kubernetes, Terraform, Jenkins, Git, and Infrastructure Automation**.
-
 🚀 Passionate about designing **scalable, secure, and highly available cloud solutions**, automating infrastructure, and implementing modern DevOps best practices. I enjoy continuous learning, solving complex challenges, and sharing technical knowledge with the community.
 
 
