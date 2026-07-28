@@ -19,7 +19,7 @@
 
 
 
-I'm currently working on AWS and DevOps profile as a Aws cloud engineer. Overall I have more than 19 years experinece in IT in different different  type of industries like hospitality ,Service, and Construction. I have wide range of skillset in software (AWS,Terraform,Ansible, Jenkins,Git,Git-Hub,Docker & Kubernetes)
+AWS Cloud & DevOps Engineer with 19+ years of overall IT experience, including hands-on expertise in AWS Cloud, DevOps, Linux, CI/CD, Docker, Kubernetes, Terraform, Jenkins, and automation. Passionate about building scalable, secure, and reliable cloud infrastructure while continuously learning and sharing knowledge.
 
 
 ###  Skills:
