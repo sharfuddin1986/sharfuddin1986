@@ -19,7 +19,7 @@
 
 
 
-AWS Cloud & DevOps Engineer with 19+ years of overall IT experience, including hands-on expertise in AWS Cloud, DevOps, Linux, CI/CD, Docker, Kubernetes, Terraform, Jenkins, and automation. Passionate about building scalable, secure, and reliable cloud infrastructure while continuously learning and sharing knowledge.
+**AWS Cloud & DevOps Engineer** with **19+ years of overall IT experience,** including hands-on expertise in AWS Cloud, DevOps, Linux, CI/CD, Docker, Kubernetes, Terraform, Jenkins, and automation. Passionate about building scalable, secure, and reliable cloud infrastructure while continuously learning and sharing knowledge.
 
 
 ###  Skills:
