@@ -10,6 +10,9 @@
 <a target="_blank" href="https://mdsharfuddin2.blogspot.com/" rel="nofollow">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
+<a target="_blank" href="https://medium.com/@sharfuddinmd" rel="nofollow">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
 <a target="_blank" href="https://stackoverflow.com/users/22428909/md-sharfuddin" rel="nofollow">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
